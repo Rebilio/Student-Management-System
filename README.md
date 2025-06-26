@@ -22,5 +22,3 @@ The Student Management System allows an admin to register learners, add subjects
 2. Learners and subjects are stored in lists.
 3. Results are tracked in a Map with learner ID as key.
 4. Console-based input/output is used for demonstration.
-
-Let me know if you want a diagram or README-style writeup too!
